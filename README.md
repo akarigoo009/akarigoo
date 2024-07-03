@@ -1,4 +1,4 @@
 # akarigoo
-Odoo Implementation Partner | Odoo ERP Support - Akarigo
-Akarigo, the best Odoo Implementation Partners in the UK, offers the best Odoo Development Services in the UK across almost all sectors of the market.
-https://akarigo.com/odoo-implementation-partner/
+Odoo Purchase Management | odoo purchase module
+Odoo is one-stop solution for the entire purchase management process. Odoo Purchase Management will help to improve the purchase and inventory performance.
+https://akarigo.com/odoo-purchase-management-uk
